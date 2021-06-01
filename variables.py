@@ -12,3 +12,5 @@ print(c[:2])
 print(c[2:4])
 print(c[2:1000])
 print(len(c))
+print()
+
