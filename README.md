@@ -17,3 +17,5 @@
 ## 1 jun 2021 - lesson 11
 
 ## 2 jun 2021 - lesson 12
+
+## 3 jun 2021 - lesson 13

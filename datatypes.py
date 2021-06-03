@@ -111,12 +111,12 @@ print()
 
 print('dictionary value accessing with index')
 print("print(dt['first_name'])")
-print(print(dt['first_name']))
+print(dt['first_name'])
 print()
 
 
 print('dictionary value accessing with get function')
 print("print(dt.get('last_name'))")
-print(print(dt.get('last_name')))
+print(dt.get('last_name'))
 print()
 
