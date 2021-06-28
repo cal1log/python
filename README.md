@@ -22,3 +22,4 @@
 
 ## 8 jun 2021 - lesson 14
 
+## 28 jun 2021 - lesson 15-16
