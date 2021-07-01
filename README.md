@@ -24,4 +24,6 @@
 
 ## 28 jun 2021 - lesson 15-16
 
-## 30 june 2021 - lesson 17
+## 30 june 2021 - lesson 17-18
+
+## 1 july 2021 - lesson 19-20
