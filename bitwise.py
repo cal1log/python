@@ -1,9 +1,31 @@
 #!/usr/bin/env python3
 
+print(0b11011)
+
 ''' complement '''
 print("complement : ~12")
+print('You have to sum 1 to the binary conversion')
+print('The first binary is 1 or negative if number to change is positive')
 print(~12)
 print(bin(~12))
+print()
+
+''' complement '''
+print("complement : ~5")
+print(~5)
+print(bin(~5))
+print()
+
+''' complement '''
+print("complement : ~(-5)")
+print(~(-5))
+print(bin(~(-5)))
+print()
+
+''' complement '''
+print("complement : ~(-6)")
+print(~(-6))
+print(bin(~(-6)))
 print()
 
 ''' complement '''
