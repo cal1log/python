@@ -33,3 +33,5 @@
 ## 7 july 2021 - lesson 22
 
 ## 8 july 2021 - lesson 23
+
+## 12 july 2021 - lesson 24
