@@ -39,3 +39,5 @@
 ## 16 july 2021 - lesson 25
 
 ## 26 july 2021 - lesson 26-27
+
+## 27 july 2021 - lesson 28
